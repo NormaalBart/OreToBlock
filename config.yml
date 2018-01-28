@@ -1,0 +1,16 @@
+#########################
+#                       #
+#      OreToBlock       #
+#        v0.0.2         #
+#                       #
+#########################
+# This plugin is made for 'tomsterbom'
+# If you get this plugin you may not sell it or give it to other people
+# Without my permission (NormaalBart)
+
+# When the person succesfully converted all their minirals
+convert: "&aYou succesfully converted {AMOUNT} blocks!"
+# When there weren't any minirals to convert
+no_minirals: "&cTheir weren't any minirals to convert!"
+# When the person hasn't the right permission (orestoblock.true)
+no_permission: "&cAcces denied!"

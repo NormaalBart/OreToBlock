@@ -1,0 +1,10 @@
+name: OreToBlock
+version: 0.0.2
+author: Bart // NormaalBart
+main: me.BartVV.OreToBlock.OreToBlock
+commands:
+  block:
+    description: Convert minirals to blocks
+    usage: /block
+    permission: orestoblock.true
+    aliases: [convert, conv]
